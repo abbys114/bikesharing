@@ -1,10 +1,10 @@
-# bikesharing
+# Bikesharing
 
 Link to Tableau page:
 [link to dashboard](https://public.tableau.com/profile/abby.schneider#!/vizhome/BikeShare_16174120581120/CheckoutTimesforUsers)
 
 
-## Overview of the analysis
+## Overview of the Analysis
 The purpose of this analysis was to add to the proposal of a bike-sharing program in Des Moines, Iowa.  We used Tableau to create a visual analysis for the stakeholders of the program.
 
 ## Results
@@ -30,7 +30,7 @@ The heat map shown above shows that the bike share program is most used by male 
 
 
 ![ALT TEXT](https://github.com/abbys114/bikesharing/blob/main/worksheets/Screen%20Shot%202021-04-02%20at%203.45.59%20PM.png)
-The pie chart above shows that the program is mostly used by males.
+The pie chart above shows the program is mostly used by males.
 
 
 ![ALT TEXT](https://github.com/abbys114/bikesharing/blob/main/worksheets/Screen%20Shot%202021-04-02%20at%203.46.14%20PM.png)

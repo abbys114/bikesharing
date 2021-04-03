@@ -38,5 +38,5 @@ The graph above shows the most popular days that the program was used in August,
 
 
 ## Summary
-Overall, the bike sharing program analysis shows that the majority of the users are male subscribers and the busiest times for the program are between 7-8am and 5-6pm.  Bike usage is short, with the majority of bikes being used less then 30 minutes per use. Having these vsulaizations and analysis will better help stakeholders make decisions. 
+Overall, the bike sharing program analysis shows that the majority of the users are male subscribers and the busiest times for the program are between 7-8am and 5-6pm.  Bike usage is short, with the majority of bikes being used less then 30 minutes per use. Having these visualizations and analysis will better help stakeholders make decisions. 
 

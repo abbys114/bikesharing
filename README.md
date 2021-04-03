@@ -1,7 +1,7 @@
 # Bikesharing
 
 Link to Tableau page:
-[link to dashboard](https://public.tableau.com/profile/abby.schneider#!/vizhome/BikeShare_16174120581120/CheckoutTimesforUsers)
+[link to dashboard](https://public.tableau.com/profile/abby.schneider#!/vizhome/BikeShare_16174120581120/Story1?publish=yes)
 
 
 ## Overview of the Analysis
